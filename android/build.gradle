@@ -30,7 +30,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace 'com.ccpp.pgw_sdk'
-    compileSdkVersion 30
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
